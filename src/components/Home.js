@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./css/home.css";
 import signature from "../signature.svg";
 import { FaBriefcase } from "react-icons/fa";

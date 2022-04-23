@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Model } from "react-model";
 import { FaTimes } from "react-icons/fa";
 
 function OurWork() {
@@ -54,6 +53,7 @@ function OurWork() {
             <iframe
               className="video_res"
               height="315"
+              title="video"
               src="https://www.youtube.com/embed/ZePfHmZ1fVQ"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

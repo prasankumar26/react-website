@@ -8,7 +8,7 @@ import { AiFillEye } from "react-icons/ai";
 
 function Work() {
 
-    const [data, setData] = useState(menu);
+    const [data] = useState(menu);
   const [visible, setVisible] = useState(8);
 
   const showMoreItems = () => {
